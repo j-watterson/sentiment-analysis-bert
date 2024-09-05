@@ -3,7 +3,7 @@ This project demonstrates how to perform sentiment analysis using BERT, a state-
 
 Feel free to explore, contribute, or provide feedback!
 
-##Instructions
+## Instructions
 1. Clone this Repository
 2. Install Jupyter Notebooks (if Necessary)
 3. Install Necessary Dependencies
